@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* CSS Document */
+/*************** GENERAL **************/
+
+body {font-family: Corbel, Lato, sans-serif;
+/*************** HEADER **************/		}
+h1 {
+	font-size: 36px;
+	margin: 0;
+	text-align: center;
+	padding: 15px 0 0 0;
+	color: #ffffff;
+		}
+h2
+{
+	text-align: center;
+	margin: 0;
+	color: #ffffff;
+}
+#nav {
+	background-color: #599a68;
+	text-align: center;
+	list-style-type: none;
+}
+#nav li {
+	display: inline-block;
+	padding: 6px 8px 6px 8px;
+}
+#nav li a  {
+	color: #ffffff;
+}
+#nav li:hover {
+	background-color: #6ab47b;
+}
+
+a {
+	color: #003300;
+	text-decoration: none;
+
+
+}
+#header {
+	background-color: #6ab47b;
+
+}
+
+
+/*************** CONTENT **************/
+#content {
+	width: 600px;
+	margin: 30px auto;
+
+}
+#content h4 {
+	border-bottom: #6ab47b 3px solid;	
+	text-transform: uppercase;
+}
+
+
+
+
+
